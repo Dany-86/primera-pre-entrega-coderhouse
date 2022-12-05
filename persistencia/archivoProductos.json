@@ -1,0 +1,26 @@
+[
+  {
+    "title": "producto1",
+    "price": "180",
+    "thumbnail": "https://www.imagen.com/imagen.jpg",
+    "id": 1
+  },
+  {
+    "title": "pepsi",
+    "price": "180",
+    "thumbnail": "https://www.imagen.com/imagen.jpg",
+    "id": 2
+  },
+  {
+    "title": "producto3",
+    "price": "180",
+    "thumbnail": "https://www.imagen.com/imagen.jpg",
+    "id": 3
+  },
+  {
+    "title": "producto4",
+    "price": "180",
+    "thumbnail": "https://www.imagen.com/imagen.jpg",
+    "id": 4
+  }
+]
